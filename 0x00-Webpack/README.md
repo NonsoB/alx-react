@@ -1,1 +1,1 @@
-This is the readme for this directory
+This is the readme for 0x00-Webpack
